@@ -1,16 +1,26 @@
-### Hi there 👋
+## Welcome 👋
+My name is Immanuel, 18 years old and a young coder from Germany.
+If you want to get in touch, just add me on Discord. [manu マヌ#0001](https://discord.com/users/299225879039442944)
 
-<!--
-**immnlshn/immnlshn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👻: imso13
+📷: immnl.shn
+https://banner2.cleanpng.com/20180423/xye/kisspng-java-runtime-environment-computer-icons-java-platf-java-5ade3063b37168.579025831524510819735.jpg 
+---
 
-Here are some ideas to get you started:
+# Languages
+- Java ☕
+- Python 👻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Knowledges
+- Linux (Debian/Ubuntu, Arch) 🐧
+- Docker 
+- Plesk
+- Apache2
+
+--- 
+
+# Tools
+- Visual Studio Code
+- IntelliJ IDEA
