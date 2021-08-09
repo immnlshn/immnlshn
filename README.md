@@ -4,7 +4,6 @@ If you want to get in touch, just add me on Discord. [manu マヌ#0001](https://
 
 👻: imso13
 📷: immnl.shn
-https://banner2.cleanpng.com/20180423/xye/kisspng-java-runtime-environment-computer-icons-java-platf-java-5ade3063b37168.579025831524510819735.jpg 
 ---
 
 # Languages
