@@ -20,9 +20,14 @@ _👻: imso13 📷: immnl.shn_
 - Docker 
 - Plesk
 - Apache2
+- MongoDB
+- MariaDB/MySQL
+- 
 
 --- 
 
 # Tools
 - Visual Studio Code
+- Visual Studio
 - IntelliJ IDEA
+
