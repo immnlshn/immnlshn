@@ -22,7 +22,6 @@ _👻: imso13 📷: immnl.shn_
 - Apache2
 - MongoDB
 - MariaDB/MySQL
-- 
 
 --- 
 
