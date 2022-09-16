@@ -1,32 +1,15 @@
-# Welcome 👋
+# Welcome👋
 
-My name is Immanuel, I'm 19 years old and a young coder from Germany.
+I'm a 19 years old student from Cologne, Germany. I study computer science at the University of Applied Science Bonn-Rhein-Sieg. 💻
 
-If you want to get in touch, just add me on Discord.    [manu マヌ#9840](https://discord.com/users/299225879039442944)
 
-_👻: imso13 📷: immnl.shn_
+If you want to get in touch, just write me on my socials.
 
----
+## Socials 🌍
 
-# Languages
-- C# 🔷
-- Java ☕
-- Python 👻
+**Discord:** `manu マヌ#0001`
+**Instagram:** `immnl.shn`
 
----
+Or just join my [Discord Server](https://discord.gg/W5RZpRsjfz)!
 
-# Knowledges
-- Linux (Debian/Ubuntu, Arch) 🐧
-- Docker 
-- Plesk
-- Apache2
-- MongoDB
-- MariaDB/MySQL
-
---- 
-
-# Tools
-- Visual Studio Code
-- Visual Studio
-- IntelliJ IDEA
-
+![](https://komarev.com/ghpvc/?username=immnlshn&style=flat-square&color=2bcbe0)
