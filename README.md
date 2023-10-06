@@ -18,3 +18,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=immnlshn&show_icons=true&locale=en" alt="immnlshn" /></p>
 
+<a href="https://discord.com/users/299225879039442944">
+  <p align="center">
+    <img align="center" src="https://lanyard.cnrad.dev/api/299225879039442944" />
+  </p>
+</a>
+
